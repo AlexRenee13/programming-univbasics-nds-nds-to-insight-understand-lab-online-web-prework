@@ -16,4 +16,6 @@ def print_first_directors_movie_titles
     titles = ss_movies[index][:title]
     puts titles
     index +=1
+
 end
+
